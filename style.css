@@ -1,0 +1,16 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.modified{
+    color: #696969;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    max-width: 1000px;
+}
