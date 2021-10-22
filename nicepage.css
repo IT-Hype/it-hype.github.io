@@ -17121,6 +17121,7 @@ p {
   }
 }
 .u-align-center {
+  background-color: #ffffff;
   text-align: center;
 }
 @media (min-width: 1200px) {
