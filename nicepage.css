@@ -17121,6 +17121,7 @@ p {
   }
 }
 .u-align-center {
+  background-color: #ffffff;
   text-align: center;
 }
 @media (min-width: 1200px) {
@@ -20040,7 +20041,7 @@ h6 {
 }
 .u-body {
   color: #111111;
-  background-color: #ffffff;
+  background-color: #1a1a1a;
 }
 /*end-variables color*/
 /*begin-variables font*/
