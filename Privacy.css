@@ -20,6 +20,7 @@
 .u-section-2 .u-text-1 {
   font-size: 1.125rem;
   width: 803px;
+  font-weight: normal;
   margin: 40px auto;
 }
 
@@ -84,12 +85,6 @@
 .u-section-2 .u-btn-10 {
   background-image: none;
   padding: 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-text-1 {
-    font-weight: normal;
-  }
 }
 
 @media (max-width: 991px) {
